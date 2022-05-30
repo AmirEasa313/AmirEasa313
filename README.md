@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @AmirEasa313
+- 👀 I’m interested in GUI applications
+- 🌱 I’m currently learning Linux,GUI Applications
